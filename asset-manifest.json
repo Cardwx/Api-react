@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Api-react.git/static/css/main.0488d39c.css",
+    "main.js": "/Api-react.git/static/js/main.470c8b37.js",
+    "index.html": "/Api-react.git/index.html",
+    "main.0488d39c.css.map": "/Api-react.git/static/css/main.0488d39c.css.map",
+    "main.470c8b37.js.map": "/Api-react.git/static/js/main.470c8b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0488d39c.css",
+    "static/js/main.470c8b37.js"
+  ]
+}
